@@ -7,8 +7,8 @@
 	<test thread-count="5" name="Test">
 		<classes>
 			<!--
+			<class name="com.w3schools.tests.LoginTest" />
 			
-			 <class name="com.w3schools.tests.SignupTest"/>
 		
 		
 		
@@ -16,7 +16,7 @@
        -->
 			<class name="com.w3schools.utils.Basetest"></class>
 			<class name="com.w3schools.utils.Reports"></class>
-			 <class name="com.w3schools.tests.LoginTest" />
+			  <class name="com.w3schools.tests.SignupTest"/>
 			
 		</classes>
 	</test> <!--
