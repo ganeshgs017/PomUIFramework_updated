@@ -24,6 +24,8 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class Basetest {
 
+	
+
 	public static WebDriver driver = null;
 
 	public void launchBrowser(String url) {
